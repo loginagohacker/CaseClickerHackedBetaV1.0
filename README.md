@@ -2,4 +2,4 @@
 
 CaseClickerHackedAlphaV1.1
 
-Special Thanks to KIng of KFC Jamal
+Special Thanks to King of KFC Jamal
