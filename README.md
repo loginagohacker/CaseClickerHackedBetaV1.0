@@ -1,4 +1,4 @@
-# CSGO ALPHA V1.0
+# CSGO BETA V1.0
 
 CaseClickerHackedAlphaV1.1
 
